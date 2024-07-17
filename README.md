@@ -1,1 +1,1 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using Create React App to provide a starting point for building a modern React application.
